@@ -1,0 +1,16 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid black;
+  width: 400px;
+  padding: 10px;
+  text-align: left;
+}
+.error {
+  color: red;
+}
+.btnSubmit {
+  background: teal;
+  width: 150px;
+}

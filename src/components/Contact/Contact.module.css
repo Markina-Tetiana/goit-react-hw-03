@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn {
+  height: 50px;
+  border: 1px solid black;
+}
+.card_info {
+  display: flex;
+  text-align: left;
+  gap: 10px;
+  align-items: center;
+}
